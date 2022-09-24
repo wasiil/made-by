@@ -1,0 +1,44 @@
+body{
+ height: 8000px;
+}
+
+.container{
+    background-color: rgb(255, 0, 162);
+    border: 1px red solid;
+    height: 50px;
+    /* width: 200px; */
+    position: sticky;
+    top: 0px;
+    
+
+}
+a{background-color: rgb(255, 98, 0);
+color: white;
+margin: 100px;
+font-size: larger;
+font-weight: bold;
+
+}
+p{font-size: large;
+    font-weight: bold;
+
+}
+
+
+/* .one
+{width: 100px;
+height: 100px;
+background-color: aqua;
+display: inline-block;
+}
+.two{
+width: 100px;
+height: 100px;
+background-color: rgb(30, 188, 64);
+display: inline-block;
+position: fixed;
+bottom: 0px;
+right: 10px;
+
+
+} */
